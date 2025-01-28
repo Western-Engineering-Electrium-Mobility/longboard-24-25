@@ -1,13 +1,13 @@
-﻿"OldSchoolLengthHoles"= 2.5in'OldSchool > NewSchool
-"SchoolWidthHoles"= 1.625in'OldSchool = NewSchool
-"Angle"= 40deg'Looks about <= 40deg
-"Width"= 2.125in'Pretty sure this is standardized on longboard and skateboard
-"Length"= 3in'Will have some variation?
-"NewSchoolLengthHoles"= 2.125in'NewSchool Mounting
-"HoleSize"= ( 3in / 16 )'hole
-"Depth"= 1in / 8'Assuming same depth as a riserplate
-"KingpinBoltSize"= 3in / 8
-"PivotCupDia"= 0.63in'0.7in (large) 0.626 (small)
-"PivotCupDepth"= 12mm'15mm (large) 12mm (small)
-"PivotCupEndAngle"= 18deg'Don't Know looks like (I don't even think I used this)
-"PivotCupInnerDia"= 0.43in'0.5in (large) 0.43 (small)
+﻿"OldSchoolLengthHoles"= 2.5in'OldSchool > NewSchool
+"SchoolWidthHoles"= 1.625in'OldSchool = NewSchool
+"Angle"= 40deg'Looks about <= 40deg
+"Width"= 2.125in'Pretty sure this is standardized on longboard and skateboard
+"Length"= 3in'Will have some variation?
+"NewSchoolLengthHoles"= 2.125in'NewSchool Mounting
+"HoleSize"= ( 3in / 16 )'hole
+"Depth"= 1in / 8'Assuming same depth as a riserplate
+"KingpinBoltSize"= 3in / 8
+"PivotCupDia"= 0.63in'0.7in (large) 0.626 (small)
+"PivotCupDepth"= 12mm'15mm (large) 12mm (small)
+"PivotCupEndAngle"= 21.4' Assuming it is indy pivots
+"PivotCupInnerDia"= 0.43in'0.5in (large) 0.43 (small)
